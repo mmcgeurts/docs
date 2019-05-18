@@ -1,6 +1,4 @@
----
-title: Documentation guidelines
----
+# Documentation guidelines
 
 We are changing our writing guidelines and toolset to improve the workflow
 between all content creators.
