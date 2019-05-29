@@ -170,6 +170,17 @@ in word, or use Hemmingway
 Focus on what matters to the customer, be supportive, and don’t use disclaimers
 if possible. Be open about areas that will frustrate our developers
 
+### Inclusive language
+Avoid exclusive words, not only gender, race and what people most common associates with an exlusive language. Acronyms that are specific for our industry are also excluding non telecom developers, and most developers are. AS far as possible avoid phrases like hey guys etc. 
+Try to avoid MSIDN, Bind, 10DLC may not be possible always, if you do introduce a new acronym make sure you explain it or link to an explanation. 
+
+Example on exclusive
+"When sending an SMS to to MSIDN over 10dlc make sure you are compliant with FCC"
+
+Better (still not great)
+"When sending SMS to a phone using a regular phone number as sender (read more about different SMS products here) make sure you understand the rules that the Federal Communications Commission have set up(link to a short version, and long version) "
+
+
 ## Tools
 
 ### Visual Studio Code Plugins Markdown and authoring
