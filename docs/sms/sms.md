@@ -74,7 +74,7 @@ To find the From-number, click on the service plan id link and scroll to the bot
 
 Change the `{To number}` to your phone number.
 
-That's all that is needed, run your app. When you are using a test number, the body of the message is replaced with sample text. If you want to send any message content [contact](https://dashboard.sinch.com/sms/overview) your account manager.
+That's all that is needed, run your app. When you are using a test number, the body of the message is replaced with sample text. 
 
 Read more about the [batches endpoint](https://developers.sinch.com/reference/#sendsms)
 
